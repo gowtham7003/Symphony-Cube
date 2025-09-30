@@ -66,7 +66,3 @@
 >Authors and Contributors:
 Developed by Team OverClocked Engineers for Smart India Hackathon 2025.
 Special thanks to mentors, peers, and open-source contributors who supported this project.
-
-
-Developed by Team [Your Team Name] for Smart India Hackathon 2025.
-Special thanks to mentors, peers, and open-source contributors who supported this project.
